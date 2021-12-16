@@ -32,18 +32,18 @@
     "products": [
       {
         "id": 1,
-        "productLabel": "NEW",
-        "title": "LG A1 55 inch Class 4K Smart OLED TV ThinQ AI® (54.6'' Diag)",
+        "productLabel": "جديد",
+        "title": "تلفزيون LG A1 55 بوصة فئة 4K ذكي OLED TV ThinQ AI® (54.6 '' Diag)",
         "price": {
           "basePrice": "$1,399.99",
           "discount": "$300.00",
           "finalPrice": "$1,099.99"
         },
-        "description": "G OLED TV is a joy to behold. Self-lit pixels have evolved to allow even more spectacular picture quality and a whole host of design possibilities, while the latest cutting-edge technologies help deliver unprecedented levels of wonder. This is everything you love about TV — elevated in every way.",
+        "description": "تلفزيون G OLED هو متعة للنظر. تم تطوير وحدات البكسل ذاتية الإضاءة للسماح بجودة صورة أكثر روعة ومجموعة كاملة من إمكانيات التصميم ، بينما تساعد أحدث التقنيات المتطورة في تقديم مستويات غير مسبوقة من الإعجاب. هذا هو كل ما تحبه في التلفزيون - يرتقي بكل شيء.",
         "keyFeatures": [
-          "Self-lighting OLED: Perfect Black, Intense Color, Infinite Contrast",
-          "α7 Gen4 AI Processor w/ AI Picture & Sound",
-          "Dolby Vision IQ & Dolby Atmos"
+          "OLED ذاتي الإضاءة: أسود مثالي ، لون كثيف ، تباين لانها",
+          "معالج α7 Gen4 AI مع صورة وصوت مدعوم بالذكاء الاصطناعي",
+          "Dolby Vision IQ و Dolby Atmos"
         ],
         "sizes": [
           {
@@ -66,7 +66,7 @@
           "rate": 3.9,
           "count": 120
         },
-        "topReview": "It’s hard to describe, but OLED just pops.",
+        "topReview": "من الصعب وصفها ، لكن OLED ينبثق فقط.",
         "offers": [
           "SHIPPING",
           "WARRANTY"
@@ -74,17 +74,17 @@
       },
       {
         "id": 2,
-        "productLabel": "BLACK FRIDAY",
-        "title": "LG NanoCell 99 Series 2021 75 inch 8K Smart UHD TV w/ AI ThinQ® (74.5'' Diag)",
+        "productLabel": "الجمعة السوداء",
+        "title": "تلفزيون LG NanoCell 99 Series 2021 75 بوصة 8K ذكي UHD مع AI ThinQ® (74.5 '' Diag)",
         "price": {
           "basePrice": "$3,299.99",
           "discount": "$200.00",
           "finalPrice": "$3,499.99"
         },
-        "description": "Bring your favorite shows to life with bright, vivid NanoCell 8K. Full Array Dimming Pro brings you more brilliant colors, deep blacks and revolutionary backlight control. And with Nano Color Pro, you'll see natural, lifelike picture enhanced by a billion rich colors.",
+        "description": "اجعل برامجك المفضلة تنبض بالحياة مع تقنية NanoCell 8K الساطعة والحيوية. يوفر لك Full Array Dimming Pro ألوانًا أكثر إشراقًا ، وأسودًا عميقًا وتحكمًا ثوريًا في الإضاءة الخلفية. ومع تقنية Nano Color Pro ، سترى صورة طبيعية نابضة بالحياة معززة بمليار لون غني.",
         "keyFeatures": [
-          "Real 8K NanoCell Display w/ Full Array Dimming Pro",
-          "α9 Gen4 AI Processor 8K w/ AI Picture Pro & Sound Pro"
+          "شاشة NanoCell حقيقية بدقة 8K مع تقنية Full Array Dimming Pro",
+          "معالج α9 Gen4 AI 8K مع AI Picture Pro و Sound Pro"
         ],
         "sizes": [
           {
@@ -107,7 +107,7 @@
           "rate": 3.4,
           "count": 86
         },
-        "topReview": "It’s hard to describe, but OLED just pops.",
+        "topReview": "من الصعب وصفها ، لكن OLED ينبثق فقط.",
         "offers": [
           "SHIPPING",
           "WARRANTY"
@@ -115,17 +115,17 @@
       },
       {
         "id": 3,
-        "productLabel": "CHRISMASH BONUS",
-        "title": "LG NanoCell 90 Series 2020 86 inch Class 4K Smart UHD NanoCell TV w/ AI ThinQ® (85.5'' Diag)",
+        "productLabel": "مكافأة كريسماش",
+        "title": "تلفزيون LG NanoCell 90 Series 2020 86 بوصة من الفئة 4K ذكي UHD NanoCell مع AI ThinQ® (85.5 بوصة Diag)",
         "price": {
           "basePrice": "$3,299.99",
           "discount": "$800.00",
           "finalPrice": "$2,499.99"
         },
-        "description": "Bring your favorite shows to life with bright, vivid NanoCell 8K. Full Array Dimming Pro brings you more brilliant colors, deep blacks and revolutionary backlight control. And with Nano Color Pro, you'll see natural, lifelike picture enhanced by a billion rich colors.",
+        "description": "اجعل برامجك المفضلة تنبض بالحياة مع تقنية NanoCell 8K الساطعة والحيوية. يوفر لك Full Array Dimming Pro ألوانًا أكثر إشراقًا ، وأسودًا عميقًا وتحكمًا ثوريًا في الإضاءة الخلفية. ومع تقنية Nano Color Pro ، سترى صورة طبيعية نابضة بالحياة معززة بمليار لون غني.",
         "keyFeatures": [
-          "Real 4K NanoCell Display: Nano Color, Nano Accuracy, Nano Bezel, Full Array Dimming",
-          "α9 Gen4 AI Processor 8K w/ AI Picture Pro & Sound Pro"
+          "شاشة NanoCell حقيقية بدقة 4K: لون نانو ، دقة نانو ، إطار نانو ، تعتيم مصفوفة كاملة",
+          "معالج α9 Gen4 AI 8K مع AI Picture Pro و Sound Pro"
         ],
         "sizes": [
           {
@@ -148,7 +148,7 @@
           "rate": 3,
           "count": 92
         },
-        "topReview": "It’s hard to describe, but OLED just pops.",
+        "topReview": "من الصعب وصفها ، لكن OLED ينبثق فقط.",
         "offers": [
           "SHIPPING",
           "WARRANTY"
