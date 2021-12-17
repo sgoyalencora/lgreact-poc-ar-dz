@@ -265,6 +265,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 7,
+        "productLabel": "SPECIAL OFFER",
+        "title": "LG SIGNATURE 15 cu. قدم ثلاجة قبو النبيذ InstaView® بتقنية wi-fi الذكية",
+        "price": {
+          "basePrice": "$6,999.00",
+          "discount": "$0",
+          "finalPrice": "$6,999.00"
+        },
+        "description": "توفر ثلاث مناطق درجة حرارة مثالية ظروفًا مثالية للحفاظ على النكهات الفريدة من النبيذ الأحمر والأبيض والفوار وإبرازها.",
+        "keyFeatures": [
+          "LG SIGNATURE",
+          "سعة زجاجة النبيذ 65"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-uretc1408n-wine-cellar-refrigerator-lgsignature",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
