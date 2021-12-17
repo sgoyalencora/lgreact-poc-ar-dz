@@ -209,5 +209,33 @@
           "SHIPPING"
         ]
       },
+      {
+        "id": 5,
+        "productLabel": "BLACK FRIDAY",
+        "title": "مجموعة مكبرات الصوت الخلفية اللاسلكية بقناة SPK8-S 2.0 من إل جي",
+        "price": {
+          "basePrice": "$179.99",
+          "discount": "$50.00",
+          "finalPrice": "$129.99"
+        },
+        "description": "قم بإقران مجموعة السماعات الخلفية من LG بـ SN10YG و SN9YG و SN8YG و SN7Y و SN7CY و SN6Y و SN5Y و SLM6Y و GX و SL10YG و SL9YG و SL8YG و SL7Y و SL6Y و SL5Y و SL4Y و SKM5Y و SK10Y و SK9Y و SK8Y مكبر الصوت SK5Y للحصول على صوت محيطي حقيقي للمسرح المنزلي.",
+        "keyFeatures": [
+          "2.0ch/140W",
+          "توسيع الصوت المحيطي"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-SPK8-S-wireless-surround-kit",
+        "bannerImage": "https://www.lg.com/us/images/home-audio/md05936736/SPK8-350.jpg",
+        "rating": {
+          "rate": 3.4,
+          "count": 86
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
     ]
 }
