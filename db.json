@@ -410,6 +410,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 11,
+        "productLabel": "SPECIAL OFFER",
+        "title": "4.5 متر مكعب قدم سعة كبيرة للغاية غسالة تحميل أمامي ذكية مزودة بتقنية TurboWash ™ 360 درجة وذكية مدمجة",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "5 نفاثات قوية ترش الملابس من زوايا متعددة لتنظيف كامل في أقل من 30 دقيقة *.",
+        "keyFeatures": [
+          "4.5 متر مكعب قدم فائقة السعة",
+          "تقنية TurboWash ™ 360 °"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wm4000hwa-front-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md07513842/3502.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
