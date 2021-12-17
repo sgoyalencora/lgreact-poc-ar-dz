@@ -439,6 +439,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 12,
+        "productLabel": "SPECIAL OFFER",
+        "title": "5.0 قدم مكعب غسالة ذكية مزودة بتقنية TurboWash3D ™",
+        "price": {
+          "basePrice": " $1,099.00",
+          "discount": "$100.00",
+          "finalPrice": "$949.00"
+        },
+        "description": "تم تقييم غسالات LG ذات التحميل العلوي من خلال تقارير المستهلك",
+        "keyFeatures": [
+          "5.0 قدم مكعب سعة ضخمة",
+          "تقنية TurboWash3D ™"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-WT7300CV-top-load-washer",
+        "bannerImage": "https://www.lg.com/us/images/washers/md06076536/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
