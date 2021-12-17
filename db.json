@@ -294,6 +294,35 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 8,
+        "productLabel": "SPECIAL OFFER",
+        "title": "28 قدمًا مكعبًا ثلاجة Smart InstaView® Door-in-Door® مزدوجة الفريزر المزودة بـ Craft Ice ™",
+        "price": {
+          "basePrice": "$3,799.00",
+          "discount": "$0",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "قم بتخزين وتخزين كل ما تحتاجه. بفضل المساحة الشاسعة التي تبلغ 28 قدمًا مكعبًا ، تمنحك ثلاجة ال جي ذات الباب الفرنسي مساحة واسعة لجميع الأطعمة المفضلة لعائلتك وتحافظ عليها منظمة بشكل ملائم وفي متناول اليد.",
+        "keyFeatures": [
+          "28 متر مكعب قدم سعة كبيرة",
+          "أدراج الفريزر المزدوجة"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrmvs2806s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md08000177/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
