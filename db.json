@@ -352,6 +352,64 @@
           "SHIPPING",
           "WARRANTY"
         ]
+      },
+      {
+        "id": 9,
+        "productLabel": "SPECIAL OFFER",
+        "title": "30 cu. ft. Smart wi-fi Enabled InstaView™ Door-in-Door® Refrigerator with Craft Ice™ Maker",
+        "price": {
+          "basePrice": " $4,399.00",
+          "discount": "$600.00",
+          "finalPrice": "$3,799.00"
+        },
+        "description": "With the Super-Capacity 30 cu. ft. refrigerator, you have even more usable space* allowing you to store more food than ever before.",
+        "keyFeatures": [
+          "30 cu. ft. Capacity",
+          "InstaView™ Door-in-Door® with adjustable bin"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 3,
+        "productSKU": "lg-lrfvs3006s-instaview-refrigerator",
+        "bannerImage": "https://www.lg.com/us/images/refrigerators/md07000072/md07000072-350x350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "It’s hard to describe",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      },
+      {
+        "id": 10,
+        "productLabel": "SPECIAL OFFER",
+        "title": "وحدة واحدة تحميل أمامي LG WashTower ™ مع Center Control ™ 4.5 متر مكعب. قدم. غسالة و 7.4 متر مكعب. قدم. مجفف كهربائي",
+        "price": {
+          "basePrice": " $2,499.00",
+          "discount": "$600.00",
+          "finalPrice": "$1,899.00"
+        },
+        "description": "انس أمر الفرز أو اختيار الدورات - تستخدم المستشعرات المدمجة تقنية الذكاء الاصطناعي لاكتشاف نسيج القماش وحجم الحمل ، ثم قم بتخصيص حركات الغسيل ودرجات الحرارة الجافة والمزيد للعناية المتقدمة بالنسيج.",
+        "keyFeatures": [
+          "سعة كبيرة للغاية 4.5 قدم مكعب غسالة و 7.4 قدم مكعب. مجفف",
+          "وحدة واحدة من تصميم WashTower ™"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 4,
+        "productSKU": "lg-wkex200hba-washtower",
+        "bannerImage": "https://www.lg.com/us/images/washer-dryer-combos/md07516046/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
       }
     ]
 }
