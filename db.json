@@ -237,5 +237,34 @@
           "SHIPPING"
         ]
       },
+          {
+        "id": 6,
+        "productLabel": "CHRISMASH BONUS",
+        "title": "مكنسة كهربائية LG CordZero ™ A9 Kompressor - رمادي الحديد",
+        "price": {
+          "basePrice": "$3,299.99",
+          "discount": "$800.00",
+          "finalPrice": "$2,499.99"
+        },
+        "description": "تعمل رافعة Kompressor ™ على ضغط الأوساخ والغبار وشعر الحيوانات الأليفة في الحاوية لأكثر من ضعف * سعة الصندوق.",
+        "keyFeatures": [
+          "تقنية Kompressor®",
+          "بطاريتان سريع التحرير وحامل شحن محمول"
+        ],
+        "sizes": [
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-a927kgms-stick-vacuum",
+        "bannerImage": "https://www.lg.com/us/images/vacuum-cleaners/md07505995/350.jpg",
+        "rating": {
+          "rate": 3,
+          "count": 92
+        },
+        "topReview": "من الصعب وصفها",
+        "offers": [
+          "SHIPPING",
+          "WARRANTY"
+        ]
+      }
     ]
 }
