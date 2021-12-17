@@ -167,6 +167,47 @@
           "SHIPPING",
           "WARRANTY"
         ]
-      }
+      },          
+      {
+        "id": 4,
+        "productLabel": "DEAL OF TEH DAY",
+        "title": "كمبيوتر محمول من LG gram خفة الوزن مقاس 17 بوصة مزود بمعالج Intel® Core ™ من الجيل الحادي عشر مزود ببطاقة رسومات Intel® Iris® Xe",
+        "price": {
+          "basePrice": "$1,399.99",
+          "discount": "$300.00",
+          "finalPrice": "$1,099.99"
+        },
+        "description": "كمبيوتر محمول من LG gram خفة الوزن مقاس 17 بوصة مزود بمعالج Intel® Core ™ من الجيل الحادي عشر مزود ببطاقة رسومات Intel® Iris® Xe",
+        "keyFeatures": [
+          "شاشة WQXGA (2560 × 1600) IPS LCD مقاس 17.0 بوصة",
+          "Windows 10 Home (64 بت)",
+          "رام 16 جيجا بايت LPDDR4X 4266 ميجا هرتز"
+        ],
+        "sizes": [
+          {
+            "price": "$4499.00",
+            "label": 12
+          },
+          {
+            "price": "$2999.00",
+            "label": 13
+          },
+          {
+            "price": "$2199.00",
+            "label": 14
+          }
+        ],
+        "categoryId": 2,
+        "productSKU": "lg-17z95n-g.aas6u1-ultra-slim-laptop",
+        "bannerImage": "https://www.lg.com/us/images/laptops/md08001063/3501.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        },
+        "topReview": "من الصعب وصفها.",
+        "offers": [
+          "SHIPPING"
+        ]
+      },
     ]
 }
